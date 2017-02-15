@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{16A7E4D8-A1A9-697D-37FB-9DD3A7BA7840}") = "Krugal's Alogrithm", "Assembly-CSharp.csproj", "{B3E31D41-4E34-5188-E389-80F79CB62B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E31D41-4E34-5188-E389-80F79CB62B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E31D41-4E34-5188-E389-80F79CB62B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E31D41-4E34-5188-E389-80F79CB62B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E31D41-4E34-5188-E389-80F79CB62B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
